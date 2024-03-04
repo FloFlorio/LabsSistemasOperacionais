@@ -4,7 +4,6 @@ Após terminarmos de efetuar o login e todas as credenciais necessárias no serv
 O objetivo desta atividade é a criação e execução de um código **Hello World!** em qualquer linguagem de programação (optamos pela linguagem C).
 
 De início foi necessário fazer a instalação do pacote Development Tool para a compilação do código juntamente com a instalação de um editor de texto, o editor escolhido foi o Nano.
-**PRINT DA INSTALAÇÃO DO DEVELOPMENT TOOLS**
 
 ![Imagem do WhatsApp de 2024-03-03 à(s) 13 33 54_583a0b1c](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/89026599/7945f87c-7d15-4c3d-8b01-e930fbd51845)
 
