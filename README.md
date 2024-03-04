@@ -5,6 +5,20 @@ O objetivo desta atividade é a criação e execução de um código **Hello Wor
 
 De início foi necessário fazer a instalação do pacote Development Tool para a compilação do código juntamente com a instalação de um editor de texto, o editor escolhido foi o Nano.
 **PRINT DA INSTALAÇÃO DO DEVELOPMENT TOOLS**
+sudo dnf groupinstall 'Development Tools'
+![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/9bcdf6c7-86d0-459a-9d5d-c3b7e420bf4a)
+![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/21a4ae2e-7cfe-4c22-a803-e81b134f32eb)
+Depois da confirmação 'y' do comando
+![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/0059bdc2-791a-4b4a-8f03-71836b558875)
+![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/bc0de720-5c93-4f51-9137-130a37ea8434)
+![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/bb46ecf5-ca4d-45eb-8308-dd4fa280382f)
+![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/6b204084-aa27-4c14-8759-9c8af521065c)
+
+
+
+
+
+
 
 ![Imagem do WhatsApp de 2024-03-03 à(s) 13 33 54_583a0b1c](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/89026599/7945f87c-7d15-4c3d-8b01-e930fbd51845)
 
