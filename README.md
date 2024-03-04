@@ -5,6 +5,7 @@ O objetivo desta atividade é a criação e execução de um código **Hello Wor
 
 De início foi necessário fazer a instalação do pacote Development Tool para a compilação do código juntamente com a instalação de um editor de texto, o editor escolhido foi o Nano.
 sudo dnf groupinstall 'Development Tools'
+
 ![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/9bcdf6c7-86d0-459a-9d5d-c3b7e420bf4a)
 ![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/21a4ae2e-7cfe-4c22-a803-e81b134f32eb)
 
