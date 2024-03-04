@@ -7,7 +7,9 @@ De início foi necessário fazer a instalação do pacote Development Tool para 
 sudo dnf groupinstall 'Development Tools'
 ![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/9bcdf6c7-86d0-459a-9d5d-c3b7e420bf4a)
 ![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/21a4ae2e-7cfe-4c22-a803-e81b134f32eb)
+
 Depois da confirmação 'y' do comando
+
 ![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/0059bdc2-791a-4b4a-8f03-71836b558875)
 ![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/bc0de720-5c93-4f51-9137-130a37ea8434)
 ![image](https://github.com/OtavioBruzadin/LabsSistemasOperacionais/assets/146960599/bb46ecf5-ca4d-45eb-8308-dd4fa280382f)
